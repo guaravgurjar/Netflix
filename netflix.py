@@ -1,4 +1,4 @@
-import  
+import pyautogui 
 import time
 
 # Function to close the Netflix window
